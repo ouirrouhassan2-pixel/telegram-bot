@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+yt-dlp
+requests
+qrcode[pil]
+pillow
+python-dotenv
+quickjs
